@@ -2,7 +2,9 @@
 
 ## 截图
 
-<div align=center><img src="https://github.com/WeiLin-Liao/uniapp-custom-tabbar/blob/master/sa3os-5bhqt.gif"/></div>
+<div align=center>
+	<img src="https://github.com/WeiLin-Liao/uniapp-custom-tabbar/blob/master/static/sa3os-5bhqt.gif"/>
+</div>
 
 ## 使用方法
 
