@@ -3,7 +3,7 @@
 ## 截图
 
 <div align=center>
-	<img src="https://github.com/WeiLin-Liao/uniapp-custom-tabbar/blob/master/static/sa3os-5bhqt.gif"/>
+	<img src="https://raw.githubusercontent.com/WeiLin-Liao/uniapp-custom-tabbar/master/static/sa3os-5bhqt.gif"/>
 </div>
 
 ## 使用方法
